@@ -28,5 +28,5 @@ Se vor respecta următoarele indicății de implementare:
 </p>
 Automatul folosit ca model pentru implementarea analizorului:
 <p align="center">
-  <img src="https://github.com/DanielM24/Uni-Projects/blob/master/TC/LexerC/DFA.png" style="zoom:30;" />
+  <img src="https://github.com/DanielM24/Uni-Projects/blob/main/TC/LexerC/DFA.png" style="zoom:30;" />
 </p>
